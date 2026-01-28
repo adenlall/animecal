@@ -16,7 +16,7 @@
     "cheerio": "^1.0.0",
     "clsx": "^2.1.1",
     "graphql-tag": "^2.12.6",
-    "next": "15.1.6",
+    "next": "16.1.5",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "typescript-cookie": "^1.0.6",
